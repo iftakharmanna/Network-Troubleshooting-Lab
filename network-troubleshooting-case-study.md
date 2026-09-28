@@ -20,8 +20,7 @@ Ran `tracert google.com` to review the full path to an external destination. Tra
 **Lesson noted:** Demonstrates the importance of verifying assumptions against actual system output rather than relying on common defaults, since an incorrect assumption can look identical to a real network failure if not cross-checked.
 
 **Screenshots:**
-
-![ipconfig output](img1.png)
+![ipconfig output](screenshots/img1.png)
 ![ipconfig output continued](img2.png)
-![ping tests](img3.png)
-![nslookup and tracert](img4.png)
+![ping tests](screenshots/img3.png)
+![nslookup and tracert](screenshots/img4.png)

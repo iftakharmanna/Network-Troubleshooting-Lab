@@ -21,6 +21,6 @@ Ran `tracert google.com` to review the full path to an external destination. Tra
 
 **Screenshots:**
 ![ipconfig output](screenshots/img1.png)
-![ipconfig output continued](img2.png)
+![ipconfig output continued](screenshots/img2.png)
 ![ping tests](screenshots/img3.png)
 ![nslookup and tracert](screenshots/img4.png)
